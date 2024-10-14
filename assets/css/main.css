@@ -1,0 +1,8 @@
+@import './base.css';
+.category,.product{
+    background-color: white;
+    width: 25%;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgb(0,0,0,.2);
+
+}
